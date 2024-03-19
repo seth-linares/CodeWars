@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OhUZoUr1KFDMTEqI6EsDSAsURAA6oBuvxITYxWIvFAnpumi7qc9dQZUzEfTbq9/R4REnbZ2fQCB54ZGPkbs8qA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sethl\\Documents\\Github-Work\\CodeWars\\Code_Problems.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sethl\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

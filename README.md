@@ -1,2 +1,2 @@
 # CodeWars
-CodeWars Solutions
+Collection of CodeWars problems and solutions. I haven't been working on them for a little while since I have been focusing on other projects, but I plan to get back to them soon. These are just the C# solutions, but I have some in Python and C++ as well. But yeah, this is just a collection of some of the problems I have solved on CodeWars.
